@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 author@ raju botta
-Batch ID: 05102021
 Association rules"""
 
 # conda install mlxtend
